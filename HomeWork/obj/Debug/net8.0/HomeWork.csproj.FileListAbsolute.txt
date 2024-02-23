@@ -1,0 +1,56 @@
+C:\Users\SOYDAN\Source\Repos\Solution2.3\HomeWork\obj\Debug\net8.0\HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOYDAN\Source\Repos\Solution2.3\HomeWork\obj\Debug\net8.0\HomeWork.AssemblyInfoInputs.cache
+C:\Users\SOYDAN\Source\Repos\Solution2.3\HomeWork\obj\Debug\net8.0\HomeWork.AssemblyInfo.cs
+C:\Users\SOYDAN\Source\Repos\Solution2.3\HomeWork\obj\Debug\net8.0\HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\SOYDAN\Source\Repos\Solution2.3\HomeWork\bin\Debug\net8.0\HomeWork.exe
+C:\Users\SOYDAN\Source\Repos\Solution2.3\HomeWork\bin\Debug\net8.0\HomeWork.deps.json
+C:\Users\SOYDAN\Source\Repos\Solution2.3\HomeWork\bin\Debug\net8.0\HomeWork.runtimeconfig.json
+C:\Users\SOYDAN\Source\Repos\Solution2.3\HomeWork\bin\Debug\net8.0\HomeWork.dll
+C:\Users\SOYDAN\Source\Repos\Solution2.3\HomeWork\bin\Debug\net8.0\HomeWork.pdb
+C:\Users\SOYDAN\Source\Repos\Solution2.3\HomeWork\obj\Debug\net8.0\HomeWork.dll
+C:\Users\SOYDAN\Source\Repos\Solution2.3\HomeWork\obj\Debug\net8.0\refint\HomeWork.dll
+C:\Users\SOYDAN\Source\Repos\Solution2.3\HomeWork\obj\Debug\net8.0\HomeWork.pdb
+C:\Users\SOYDAN\Source\Repos\Solution2.3\HomeWork\obj\Debug\net8.0\HomeWork.genruntimeconfig.cache
+C:\Users\SOYDAN\Source\Repos\Solution2.3\HomeWork\obj\Debug\net8.0\ref\HomeWork.dll
+E:\Kodlarım\C# Course Ödevleri\Ödev2.3\Solution2.3\HomeWork\bin\Debug\net8.0\HomeWork.exe
+E:\Kodlarım\C# Course Ödevleri\Ödev2.3\Solution2.3\HomeWork\bin\Debug\net8.0\HomeWork.deps.json
+E:\Kodlarım\C# Course Ödevleri\Ödev2.3\Solution2.3\HomeWork\bin\Debug\net8.0\HomeWork.runtimeconfig.json
+E:\Kodlarım\C# Course Ödevleri\Ödev2.3\Solution2.3\HomeWork\bin\Debug\net8.0\HomeWork.dll
+E:\Kodlarım\C# Course Ödevleri\Ödev2.3\Solution2.3\HomeWork\bin\Debug\net8.0\HomeWork.pdb
+E:\Kodlarım\C# Course Ödevleri\Ödev2.3\Solution2.3\HomeWork\obj\Debug\net8.0\HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kodlarım\C# Course Ödevleri\Ödev2.3\Solution2.3\HomeWork\obj\Debug\net8.0\HomeWork.AssemblyInfoInputs.cache
+E:\Kodlarım\C# Course Ödevleri\Ödev2.3\Solution2.3\HomeWork\obj\Debug\net8.0\HomeWork.AssemblyInfo.cs
+E:\Kodlarım\C# Course Ödevleri\Ödev2.3\Solution2.3\HomeWork\obj\Debug\net8.0\HomeWork.csproj.CoreCompileInputs.cache
+E:\Kodlarım\C# Course Ödevleri\Ödev2.3\Solution2.3\HomeWork\obj\Debug\net8.0\HomeWork.dll
+E:\Kodlarım\C# Course Ödevleri\Ödev2.3\Solution2.3\HomeWork\obj\Debug\net8.0\refint\HomeWork.dll
+E:\Kodlarım\C# Course Ödevleri\Ödev2.3\Solution2.3\HomeWork\obj\Debug\net8.0\HomeWork.pdb
+E:\Kodlarım\C# Course Ödevleri\Ödev2.3\Solution2.3\HomeWork\obj\Debug\net8.0\HomeWork.genruntimeconfig.cache
+E:\Kodlarım\C# Course Ödevleri\Ödev2.3\Solution2.3\HomeWork\obj\Debug\net8.0\ref\HomeWork.dll
+C:\Users\SOYDAN\Desktop\Çakma\Solutt2.3\HomeWork\bin\Debug\net8.0\HomeWork.exe
+C:\Users\SOYDAN\Desktop\Çakma\Solutt2.3\HomeWork\bin\Debug\net8.0\HomeWork.deps.json
+C:\Users\SOYDAN\Desktop\Çakma\Solutt2.3\HomeWork\bin\Debug\net8.0\HomeWork.runtimeconfig.json
+C:\Users\SOYDAN\Desktop\Çakma\Solutt2.3\HomeWork\bin\Debug\net8.0\HomeWork.dll
+C:\Users\SOYDAN\Desktop\Çakma\Solutt2.3\HomeWork\bin\Debug\net8.0\HomeWork.pdb
+C:\Users\SOYDAN\Desktop\Çakma\Solutt2.3\HomeWork\obj\Debug\net8.0\HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOYDAN\Desktop\Çakma\Solutt2.3\HomeWork\obj\Debug\net8.0\HomeWork.AssemblyInfoInputs.cache
+C:\Users\SOYDAN\Desktop\Çakma\Solutt2.3\HomeWork\obj\Debug\net8.0\HomeWork.AssemblyInfo.cs
+C:\Users\SOYDAN\Desktop\Çakma\Solutt2.3\HomeWork\obj\Debug\net8.0\HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\SOYDAN\Desktop\Çakma\Solutt2.3\HomeWork\obj\Debug\net8.0\HomeWork.dll
+C:\Users\SOYDAN\Desktop\Çakma\Solutt2.3\HomeWork\obj\Debug\net8.0\refint\HomeWork.dll
+C:\Users\SOYDAN\Desktop\Çakma\Solutt2.3\HomeWork\obj\Debug\net8.0\HomeWork.pdb
+C:\Users\SOYDAN\Desktop\Çakma\Solutt2.3\HomeWork\obj\Debug\net8.0\HomeWork.genruntimeconfig.cache
+C:\Users\SOYDAN\Desktop\Çakma\Solutt2.3\HomeWork\obj\Debug\net8.0\ref\HomeWork.dll
+C:\Users\SOYDAN\Desktop\Solut2.3-Public\HomeWork\bin\Debug\net8.0\HomeWork.exe
+C:\Users\SOYDAN\Desktop\Solut2.3-Public\HomeWork\bin\Debug\net8.0\HomeWork.deps.json
+C:\Users\SOYDAN\Desktop\Solut2.3-Public\HomeWork\bin\Debug\net8.0\HomeWork.runtimeconfig.json
+C:\Users\SOYDAN\Desktop\Solut2.3-Public\HomeWork\bin\Debug\net8.0\HomeWork.dll
+C:\Users\SOYDAN\Desktop\Solut2.3-Public\HomeWork\bin\Debug\net8.0\HomeWork.pdb
+C:\Users\SOYDAN\Desktop\Solut2.3-Public\HomeWork\obj\Debug\net8.0\HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOYDAN\Desktop\Solut2.3-Public\HomeWork\obj\Debug\net8.0\HomeWork.AssemblyInfoInputs.cache
+C:\Users\SOYDAN\Desktop\Solut2.3-Public\HomeWork\obj\Debug\net8.0\HomeWork.AssemblyInfo.cs
+C:\Users\SOYDAN\Desktop\Solut2.3-Public\HomeWork\obj\Debug\net8.0\HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\SOYDAN\Desktop\Solut2.3-Public\HomeWork\obj\Debug\net8.0\HomeWork.dll
+C:\Users\SOYDAN\Desktop\Solut2.3-Public\HomeWork\obj\Debug\net8.0\refint\HomeWork.dll
+C:\Users\SOYDAN\Desktop\Solut2.3-Public\HomeWork\obj\Debug\net8.0\HomeWork.pdb
+C:\Users\SOYDAN\Desktop\Solut2.3-Public\HomeWork\obj\Debug\net8.0\HomeWork.genruntimeconfig.cache
+C:\Users\SOYDAN\Desktop\Solut2.3-Public\HomeWork\obj\Debug\net8.0\ref\HomeWork.dll
